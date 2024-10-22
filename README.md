@@ -4,33 +4,6 @@ Welcome to **EcoVisit**, a smart and environment-friendly platform designed to h
 
 ---
 
-## 🔍 Project Overview
-
-**EcoVisit** serves as a comprehensive AQI solution with the following features:
-- **Monitor:** Real-time AQI data for major tourist destinations in India, presented on an interactive map.
-- **Compare:** Historical AQI comparison for the past 12 months, offering insights into the air quality trends.
-- **Predict:** AI-powered AQI predictions for the upcoming year to help users plan visits based on future air quality.
-
----
-
-## 🎯 Problem Statement
-
-In recent years, air pollution has become a growing concern for tourists looking to explore different parts of India. Eco-conscious travelers are seeking reliable information about air quality before making decisions on where and when to travel. **EcoVisit** addresses this problem by providing real-time and predictive AQI insights, helping users plan trips to destinations with optimal air quality.
-
----
-
-## 🌟 Key Features
-
-1. **Interactive Map:** Displays real-time AQI data for major tourist locations across India. States are color-coded based on AQI levels for easy interpretation (green = good, red = hazardous).
-   
-2. **AQI Predictions:** Uses AI models to predict AQI for the upcoming year. Users can select a month and destination to receive AQI forecasts and recommendations for the best time to visit.
-
-3. **Comparison Table:** Allows users to compare AQI trends from the last 12 months, highlighting destinations with significant changes.
-
-4. **News and Highlights:** Alerts and news updates related to significant AQI changes or environmental events affecting air quality.
-
----
-
 ![image](https://github.com/user-attachments/assets/c4d600e6-c858-47d5-bbec-2701d4ec8fee)
  <div align="center">
   <b>Home Page of the website</b>
@@ -90,6 +63,33 @@ In recent years, air pollution has become a growing concern for tourists looking
 <br>
 
 --- 
+
+## 🔍 Project Overview
+
+**EcoVisit** serves as a comprehensive AQI solution with the following features:
+- **Monitor:** Real-time AQI data for major tourist destinations in India, presented on an interactive map.
+- **Compare:** Historical AQI comparison for the past 12 months, offering insights into the air quality trends.
+- **Predict:** AI-powered AQI predictions for the upcoming year to help users plan visits based on future air quality.
+
+---
+
+## 🎯 Problem Statement
+
+In recent years, air pollution has become a growing concern for tourists looking to explore different parts of India. Eco-conscious travelers are seeking reliable information about air quality before making decisions on where and when to travel. **EcoVisit** addresses this problem by providing real-time and predictive AQI insights, helping users plan trips to destinations with optimal air quality.
+
+---
+
+## 🌟 Key Features
+
+1. **Interactive Map:** Displays real-time AQI data for major tourist locations across India. States are color-coded based on AQI levels for easy interpretation (green = good, red = hazardous).
+   
+2. **AQI Predictions:** Uses AI models to predict AQI for the upcoming year. Users can select a month and destination to receive AQI forecasts and recommendations for the best time to visit.
+
+3. **Comparison Table:** Allows users to compare AQI trends from the last 12 months, highlighting destinations with significant changes.
+
+4. **News and Highlights:** Alerts and news updates related to significant AQI changes or environmental events affecting air quality.
+
+---
 
 ## 🚀 Installation Guide
 
