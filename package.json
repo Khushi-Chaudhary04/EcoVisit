@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase": "^10.14.0",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.26.2"
+  }
+}
