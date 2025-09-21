@@ -53,16 +53,6 @@ Welcome to **EcoVisit**, a smart and environment-friendly platform designed to h
 </div>
 <br>
 
----
-        
-![image](https://github.com/user-attachments/assets/54d21c21-dc78-4934-85a5-048c8ee7f0c2)
-<div align="center">
-  <b>About Us page</b>
-   <br>
-   Provides details about the project and also the founders of the site
-</div>
-<br>
-
 --- 
 
 ## 🔍 Project Overview
