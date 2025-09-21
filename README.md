@@ -1,3 +1,4 @@
+[View Live Demo](https://ecovisit.onrender.com/)
 # EcoVisit: Monitor, Compare & Predict AQI 🌍
 
 Welcome to **EcoVisit**, a smart and environment-friendly platform designed to help users monitor, compare, and predict the Air Quality Index (AQI) of tourist destinations in India. By integrating real-time AQI data, AI-driven predictions, and historical trends, EcoVisit empowers travelers to make eco-conscious decisions when planning their trips. ✈️🌱
